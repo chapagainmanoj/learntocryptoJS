@@ -1,0 +1,27 @@
+[
+    {
+        "cmd": "genesis",
+        "hash": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+    },
+    {
+        "value": {
+            "cmd": "deposit",
+            "amount": 500
+        },
+        "hash": "EpmGGaIRF3IS0o0r4LdWJ1X/qh8bWqYdDdEMfelq+bE="
+    },
+    {
+        "value": {
+            "cmd": "deposit",
+            "amount": 500
+        },
+        "hash": "7TX1kKOnaXR6jkQH7izxq0dJJaeRxPlOVl96OuC9MJs="
+    },
+    {
+        "value": {
+            "cmd": "withdraw",
+            "amount": 200
+        },
+        "hash": "GP4OD2HwBkCOzWomlvBsvq57tIb4ywx4z+/QlWIjy6g="
+    }
+]
